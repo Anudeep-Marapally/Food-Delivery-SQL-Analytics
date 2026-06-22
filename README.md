@@ -18,7 +18,7 @@ The project consists of multiple related datasets representing a food delivery p
 8.Which customers place repeat orders?
 9.What factors contribute to restaurant success?
 
-## SQL Concepts Demonstrated
+### SQL Concepts Demonstrated
 1.Joins (Inner)
 2.Common Table Expressions (CTEs)
 3.Aggregate Functions
