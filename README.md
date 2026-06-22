@@ -19,22 +19,22 @@ The project consists of multiple related datasets representing a food delivery p
 9.What factors contribute to restaurant success?
 
 ## SQL Concepts Demonstrated
-Joins (Inner, Left)
-Common Table Expressions (CTEs)
-Aggregate Functions
-Window Functions
-Ranking Functions
-CASE Statements
-Subqueries
-Date Functions
+1.Joins (Inner)
+2.Common Table Expressions (CTEs)
+3.Aggregate Functions
+4.Window Functions
+5.Ranking Functions
+6.CASE Statements
+7.Subqueries
+8.Date Functions
 
 ## ER DIAGRAM
 <img width="1920" height="1080" alt="ER diagram" src="https://github.com/user-attachments/assets/d150b739-e881-41e9-bea9-4700bb0ada72" />
 
 ## Key Skills Showcased
--Data Analysis
--Business Intelligence
--SQL Query Optimization
--Revenue Analysis
--Customer Analytics
--Performance Measurement
+1.Data Analysis
+2.Business Intelligence
+3.SQL Query Optimization
+4.Revenue Analysis
+5.Customer Analytics
+6.Performance Measurement
