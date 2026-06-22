@@ -20,19 +20,12 @@ The project consists of multiple related datasets representing a food delivery p
 
 ## SQL Concepts Demonstrated
 1.Joins (Inner)
-
 2.Common Table Expressions (CTEs)
-
 3.Aggregate Functions
-
 4.Window Functions
-
 5.Ranking Functions
-
 6.CASE Statements
-
 7.Subqueries
-
 8.Date Functions
 
 ## ER DIAGRAM
@@ -40,14 +33,14 @@ The project consists of multiple related datasets representing a food delivery p
 
 ## Key Skills Showcased
 1.Data Analysis
-
 2.Business Intelligence
-
 3.SQL Query Optimization
-
 4.Revenue Analysis
-
 5.Customer Analytics
-
 6.Performance Measurement
+
+
+
+
+
 
