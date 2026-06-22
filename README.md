@@ -1,5 +1,6 @@
 # Food-Delivery-SQL-Analytics
 This project analyzes a food delivery business dataset using SQL to uncover insights related to customer behavior, restaurant performance, revenue trends, delivery efficiency, and customer satisfaction.
+### KAGGLE DATASET LINK: https://www.kaggle.com/datasets/ivasanthp/zomato-food-delivery-insight-data
 Dataset Information
 The project consists of multiple related datasets representing a food delivery platform:
 -Customers
